@@ -10,3 +10,12 @@
 ChongHai ：818张
 HeBan：1006张
 YeKu: 230张
+
+
+
+划分比例    6：2：2
+
+病害	     总数	  train   eval  test
+ChongHai  ：818      490：164：164
+HeBan       ：1006    604： 202：200
+YeKu          ：230      138：  46 ：46
